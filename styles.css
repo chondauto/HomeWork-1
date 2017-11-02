@@ -3,5 +3,6 @@
     color: black;
     text-align: right;
     font-family: "consolas";
-    
+    display: flex;
+    justify-content: columns;
 }
